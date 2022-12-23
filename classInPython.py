@@ -1,9 +1,11 @@
 
-
 class Animal():
       pass
+b = 1
+c = 4
+d = {}
 
-pigeon = Animal()
-pigeon.a = 1
-pigeon.a = 2
-print(pigeon.__dict__)
+d[c] = 3
+
+
+
